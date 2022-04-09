@@ -7,7 +7,7 @@ Source : https://www.drivendata.org/competitions/66/flu-shot-learning/page/210/
 
 Can you predict whether people got H1N1 and seasonal flu vaccines using information they shared about their backgrounds, opinions, and health behaviors?
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRS0yRwp8JLyVYLuivYZ5wFOkpnb6erYUPsQ&usqp=CAU)
+![alt text](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/340c5e88-113e-4982-ad24-0edcaebb72ee/fx1_lrg.jpg)
 
 In this challenge, we will take a look at vaccination, a key public health measure used to fight infectious diseases. Vaccines provide immunization for individuals, and enough immunization in a community can further reduce the spread of diseases through "herd immunity."
 
